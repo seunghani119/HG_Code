@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "terminal.integrated.env.windows": {
+        "TF_CPP_MIN_LOG_LEVEL": "3",
+        "TF_ENABLE_ONEDNN_OPTS": "0",
+        "GRPC_VERBOSITY": "ERROR"
+    }
+}
