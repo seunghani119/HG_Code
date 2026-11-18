@@ -49,7 +49,7 @@ model = keras.Sequential([inputs, dense])
 
 model.compile(loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
-print(train_target[:10],train_target[:10])
+print(train_target[:10])
 model.fit(train_scaled, train_target, epochs=5)
 
 model.evaluate(val_scaled, val_target)
