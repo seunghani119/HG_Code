@@ -1,0 +1,13 @@
+# 학습된 모델 (코드 실행하면 다시 생김)
+*.keras
+*.h5
+
+# 개인 에디터 설정
+.vscode/
+
+# 앞으로 생길 수 있는 것들
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
