@@ -31,9 +31,6 @@ print(np.mean(scores['test_score']))
 import tensorflow as tf
 import keras
 print(keras.config.backend())  
-print(keras.config.backend())  
-print(keras.config.backend())  
-print(keras.config.backend())  
 
 
 import os
